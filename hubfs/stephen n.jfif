@@ -1,0 +1,20 @@
+id=MagickPixelCache
+magick-signature=762599890
+class=DirectClass colors=0 alpha-trait=Undefined
+number-channels=3 number-meta-channels=0 channel-mask=134217727
+columns=245 rows=180 depth=8
+colorspace=sRGB
+compression=JPEG quality=75
+page=245x180+0+0
+rendering-intent=Perceptual
+gamma=0.454545
+red-primary=0.64,0.33 green-primary=0.3,0.6 blue-primary=0.15,0.06
+white-point=0.3127,0.329
+orientation=TopLeft
+date:create=2025-03-03T15:13:25+00:00
+date:modify=2025-03-03T15:13:25+00:00
+date:timestamp=2025-03-03T15:13:25+00:00
+jpeg:colorspace=2
+jpeg:sampling-factor=2x2,1x1,1x1
+
+:
